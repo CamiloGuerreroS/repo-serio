@@ -3,3 +3,5 @@ def important_function():
 
     print("Esta es una función muy importante")
     # Aquí va la lógica importante
+
+    codigo super importante, esto es serio
